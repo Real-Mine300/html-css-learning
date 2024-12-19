@@ -1,3 +1,12 @@
 body {
     backgground-color: azure;
+    font-family: "Montserrat", verdana, arial, sans-serif;
+}
+h1{
+    font-size: 1.1em;
+}
+p{
+    font-family: "lucida console", "couirier new";
+    font-size: 1.1em;
+    font-style: normal;
 }
